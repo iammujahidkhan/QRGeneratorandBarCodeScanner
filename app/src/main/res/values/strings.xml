@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QR Code Scanner and Generator</string>
+    <!--    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>sample-->
+    <string name="banner">ca-app-pub-2439447844592513/3344572897</string>
+    <!--    <string name="app_name_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>sample-->
+    <string name="app_name_interstitial_id">ca-app-pub-2439447844592513/2352971146</string>
+</resources>

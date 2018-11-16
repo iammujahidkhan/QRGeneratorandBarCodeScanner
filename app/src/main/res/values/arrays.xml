@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="generate_codes">
+        <item>Choose Format</item>
+        <item>QR_CODE</item>
+        <item>AZTEC</item>
+        <item>CODE_128</item>
+        <item>PDF_417</item>
+    </array>
+</resources>
